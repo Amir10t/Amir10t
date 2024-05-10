@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: amirhasantalebi1400@gmail.com
 - ⚡ Fun fact: Python is good BUT C# is better.
 
+
+### My Abilities ⚡
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=CSharp&logoColor=white" alt="C# Badge"/>
+  <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=Django&logoColor=white" alt="Django Badge"/>
 </div>
