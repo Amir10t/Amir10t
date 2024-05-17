@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ---
 - ⚡ Fun fact: Python is good BUT C# is better.
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Amir10t&theme=neon" alt="GitHub Streak" /></a>
 
 ### My Abilities ⚡
 <div id="badges">
