@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS Badge"/> -->
 </div>
+<!-- <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+</div> -->
