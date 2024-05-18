@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Amir10t&theme=neon" alt="GitHub Streak" /></a>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amir10t&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Amir" style="margin-left:2px"/><br>
 
-### Languages and Tools🎸
+## Languages and Tools🎸
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
 </div>
 
-### My Abilities ⚡
+## My Abilities ⚡
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=CSharp&logoColor=white" alt="C# Badge"/>
