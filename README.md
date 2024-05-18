@@ -3,11 +3,9 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
+## About Me
+
 ### Hi there 👋
-
-**Amir10t/Amir10t** is a ✨ _special_ ✨ repository.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Wcid Project.
 - 🌱 I’m currently learning Many things!
@@ -31,6 +29,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
 </div>
 
 ## My Abilities ⚡
@@ -38,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=CSharp&logoColor=white" alt="C# Badge"/>
   <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=Django&logoColor=white" alt="Django Badge"/>
-  <img src="https://img.shields.io/badge/DotNet-darkblue?style=for-the-badge&logo=DotNet&logoColor=white" alt="DotNet Badge"/>
+<!--   <img src="https://img.shields.io/badge/DotNet-darkblue?style=for-the-badge&logo=DotNet&logoColor=white" alt="DotNet Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/Arduino-lightblue?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS Badge"/> -->
