@@ -9,15 +9,29 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mobile Store Accounting Project.
+- 🔭 I’m currently working on Wcid Project.
 - 🌱 I’m currently learning Many things!
 - 🤔 I’m looking for help with Everyone wants.
 - 💬 Ask me about Anything!
 - 📫 How to reach me: ---
 - ⚡ Fun fact: Python is good BUT C# is better.
 
+## Stats summary📈
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir10t&hide_progress=false&layout=compact)<br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Amir10t&theme=neon" alt="GitHub Streak" /></a><br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Amir10t&theme=neon" alt="GitHub Streak" /></a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amir10t&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Amir" style="margin-left:2px"/><br>
+
+### Languages and Tools🎸
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
+</div>
 
 ### My Abilities ⚡
 <div id="badges">
@@ -29,6 +43,3 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS Badge"/> -->
 </div>
-<!-- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-</div> -->
