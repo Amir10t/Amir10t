@@ -7,12 +7,12 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Wcid Project.
+- 🔭 I’m currently working on Nothing.
 - 🌱 I’m currently learning Many things!
 - 🤔 I’m looking for help with Everyone wants.
 - 💬 Ask me about Django!
+- - ⚡ Fun fact: Python is good BUT C# is better.
 <!-- - 📫 How to reach me:  -->
-- ⚡ Fun fact: Python is good BUT C# is better.
 
 ## Stats summary📈
 
