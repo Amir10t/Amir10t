@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on Wcid Project.
 - 🌱 I’m currently learning Many things!
 - 🤔 I’m looking for help with Everyone wants.
-- 💬 Ask me about Anything!
-- 📫 How to reach me: ---
+- 💬 Ask me about Django!
+<!-- - 📫 How to reach me:  -->
 - ⚡ Fun fact: Python is good BUT C# is better.
 
 ## Stats summary📈
