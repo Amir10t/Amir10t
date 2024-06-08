@@ -40,3 +40,9 @@
 <!--   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS Badge"/> -->
 </div>
+
+<div align="center">
+  <a>
+      <img src="https://komarev.com/ghpvc/?username=Amir10t&label=Profile%20views&color=0e75b6&style=flat" align="center" /> 
+  <a/>
+</div>
