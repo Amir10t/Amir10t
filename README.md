@@ -19,7 +19,7 @@
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="60" height="50"/>&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,jquery,dotnet,visualstudio,vscode,pycharm,atom,git,gitlab,github,arduino&perline=30" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,jquery,dotnet,visualstudio,vscode,pycharm,atom,git,gitlab,github,arduino&perline=3" />
   </a>
 </p>
 
