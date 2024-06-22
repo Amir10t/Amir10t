@@ -19,14 +19,15 @@
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="60" height="50"/>&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,jquery,dotnet,visualstudio,vscode,pycharm,atom,git,gitlab,github,arduino&perline=3" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,arduino,jquery,dotnet,visualstudio,vscode,pycharm,atom,git,gitlab,github&perline=3" />
   </a>
 </p>
 
+
 ## Stats summary📈
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir10t&hide_progress=false&layout=compact)<br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Amir10t&theme=neon" alt="GitHub Streak" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir10t&hide_progress=false&layout=compact)<br>
 <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amir10t&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Amir" style="margin-left:2px"/><br>
 
 
