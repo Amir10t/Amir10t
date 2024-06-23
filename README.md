@@ -13,6 +13,14 @@
 - ⚡ Fun fact: Python is good BUT C# is better.
 <!-- - 📫 How to reach me:  -->
 
+### Social
+
+<p align="left">
+  <a href="(https://www.linkedin.com/in/amir-talebi-669089298/)">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=15" />
+  </a>
+</p>
+
 ## 🃏 Languages and Tools
 ### Web
 <p align="left">
@@ -64,7 +72,9 @@
 </div>
 
 ##
-
+<p align="center">
+  <a href="https://www.coffeebede.com/amir10t"><img width="20%" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+</p>
 <div align="center">
   <a>
       <img src="https://komarev.com/ghpvc/?username=Amir10t&label=Profile%20views&color=0e75b6&style=flat" align="center" /> 
