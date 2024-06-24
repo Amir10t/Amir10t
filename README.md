@@ -16,7 +16,7 @@
 ### Social
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/amir-talebi-669089298/)">
+  <a href="https://www.linkedin.com/in/amir-talebi-669089298/">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=15" />
   </a>
 </p>
