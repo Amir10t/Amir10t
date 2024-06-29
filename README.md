@@ -60,15 +60,14 @@
 ## 🏆 Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Amir10t&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
-## My Abilities ⚡
+## ⚡My Abilities 
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=CSharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=Django&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/DotNet-darkblue?style=for-the-badge&logo=DotNet&logoColor=white" alt="DotNet Badge"/> -->
-<!--   <img src="https://img.shields.io/badge/Arduino-lightblue?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino Badge"/> -->
-<!--   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/> -->
-<!--   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS Badge"/> -->
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JS Badge"/>
 </div>
 
 ##
