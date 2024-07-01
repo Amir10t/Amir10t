@@ -39,7 +39,7 @@
 ### Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,gcp,gmail&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,postman,gcp,gmail&perline=15" />
   </a>
 </p>
 
