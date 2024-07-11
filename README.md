@@ -11,6 +11,7 @@
 - 🤔 I’m looking for myself!
 - 💬 Ask me about Django!
 - ⚡ Fun fact: Python is good BUT C# is better.
+- 🙇‍♂️ I'm a 15 year-old programmer
 <!-- - 📫 How to reach me:  -->
 
 ### Social
