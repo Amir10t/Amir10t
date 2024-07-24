@@ -22,7 +22,10 @@
   </a>
 </p>
 
-## 🃏 Languages and Tools
+###
+
+<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h2>
+
 ### Web
 <p align="left">
   <a href="https://skillicons.dev">
@@ -51,7 +54,9 @@
   </a>
 </p>
 
-## 📈 Stats summary
+###
+
+<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir10t&hide_progress=false&layout=compact) <br>
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Amir10t&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Amir" style="margin-left:2px"/> <br>
@@ -77,6 +82,6 @@
 </p>
 <div align="center">
   <a>
-      <img src="https://komarev.com/ghpvc/?username=Amir10t&label=Profile%20views&color=0e75b6&style=flat" align="center" /> 
+      <img src="https://komarev.com/ghpvc/?username=Amir10t&label=Profile%20views&color=0e75b6&style=flat" align="center" />
   <a/>
 </div>
